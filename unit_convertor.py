@@ -18,8 +18,8 @@ def unit_conversion(value, unit_from, unit_to):
         "miles_meters": 1609.34,
 
         # Weight Conversions
-        "kg_grams": 1000,
-        "grams_kg": 0.001
+        "kilograms_grams": 1000,
+        "grams_kilograms": 0.001
     }
 
     # Temperature Conversion Requires Formulas
